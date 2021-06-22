@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [20.8.2] (unreleased)
+## [20.8.2] (20.8.2) - 2021-06-22
 
 ### Added
 - Add standard info elem fields for NVTs in get_info [#1426](https://github.com/greenbone/gvmd/pull/1426)
@@ -36,7 +36,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Removed
 
 [20.8.2]: https://github.com/greenbone/gvmd/compare/v20.8.1...gvmd-20.08
-
 
 ## [20.8.1] (2021-02-02)
 
