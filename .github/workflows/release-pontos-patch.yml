@@ -45,5 +45,5 @@ jobs:
     - name: Release with pontos
       run: |
         . venv/bin/activate
-        pontos-release release
+        pontos-release release --space y0urself
 #set the flag -.-
