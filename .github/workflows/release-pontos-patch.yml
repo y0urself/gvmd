@@ -44,3 +44,4 @@ jobs:
     - name: Release with pontos
       run: |
         pontos-release release
+#set the flag -.-
