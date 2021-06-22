@@ -37,7 +37,6 @@ jobs:
         git remote set-url origin https://${{ env.GITHUB_TOKEN }}@github.com/${{ github.repository }}
       
     - name: Print base branch
-      # we always should've checked out the correct branch'
       run: echo "Current Branch is $GITHUB_BASE_REF"
     - name: Prepare patch release with pontos
       run: |
